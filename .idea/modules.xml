@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/apyrio.iml" filepath="$PROJECT_DIR$/.idea/apyrio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/aspyrio.iml" filepath="$PROJECT_DIR$/.idea/aspyrio.iml" />
     </modules>
   </component>
 </project>
